@@ -1,0 +1,8 @@
+Etykietowanie (SL):
+0.031
+Luki powrotne (AL):
+0.032
+Luki powrotne (NM):
+0.14
+Luki powrotne (SL):
+0.032
